@@ -1,2 +1,4 @@
 # Sl-Estacionamento
-Sistema de gestão de estacionamento.
+# NOME: E-STACIONA
+# Projeto de informatização da gestão de entrada, saída e permanência de veículos em estacionamento.  
+
